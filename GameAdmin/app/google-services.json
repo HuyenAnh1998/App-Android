@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "365752408955",
+    "firebase_url": "https://game-273b2.firebaseio.com",
+    "project_id": "game-273b2",
+    "storage_bucket": "game-273b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365752408955:android:4a5c8aa901908a9c29bbde",
+        "android_client_info": {
+          "package_name": "com.example.gameadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365752408955-n53umg5u6umpkspu41dvern3g39em5tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYUJFJGAKHY_wl1M9XsPYa0F28XJB5Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365752408955-n53umg5u6umpkspu41dvern3g39em5tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365752408955:android:fbbb3cd3881d838629bbde",
+        "android_client_info": {
+          "package_name": "com.example.gameapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365752408955-t74mos7rnqjsd5o5gc1uheusqmavtcu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gameapp",
+            "certificate_hash": "a85e8b1901b63fbd4fc3589bc52cf695a3bd384c"
+          }
+        },
+        {
+          "client_id": "365752408955-n53umg5u6umpkspu41dvern3g39em5tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYUJFJGAKHY_wl1M9XsPYa0F28XJB5Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365752408955-n53umg5u6umpkspu41dvern3g39em5tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

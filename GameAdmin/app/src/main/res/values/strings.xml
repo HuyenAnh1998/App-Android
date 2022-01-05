@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nhanh Hơn Chớp - Admin</string>
+    <string name="score">score</string>
+    <string name="user_name">username</string>
+    <string name="email">email</string>
+</resources>
